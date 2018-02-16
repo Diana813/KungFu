@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Kung Fu</string>
+    <string name="tygrys">Tygrys i Żuraw</string>
+    <string name="academy">Kung Fu Academy</string>
+    <string name="text">The best martial arts school in Warsaw!</string>
+    <string name="street">Długa 44/50</string>
+    <string name="city">00–241 Warszawa</string>
+    <string name="phone">786–976–030</string>
+
+
+
+    
+</resources>
